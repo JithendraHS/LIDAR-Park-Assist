@@ -17,7 +17,7 @@ The project involves the following key components and features:
 ## Implementation Details
 
 ### LIDAR park assist FSM
-![alt text](https://github.com/JithendraHS/PES_Final_project/blob/main/LIDAR_park_assist_FSM.drawio.png?raw=true)
+![LIDAR_park_assist_FSM drawio](https://github.com/JithendraHS/LIDAR-Park-Assist/assets/37045723/e0411bc6-c66e-4ab4-91c0-bbee4e3590ee)
 
 ### Tasks
 
