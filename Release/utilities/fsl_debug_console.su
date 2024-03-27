@@ -1,0 +1,4 @@
+../utilities/fsl_debug_console.c:232:10:DbgConsole_Init	32	static
+../utilities/fsl_debug_console.c:334:10:DbgConsole_Deinit	8	static
+c:\nxp\mcuxpressoide_11.8.0_1165\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047\tools\redlib\include\sys\libconfig-arm.h:247:5:__sys_write	8	static
+c:\nxp\mcuxpressoide_11.8.0_1165\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047\tools\redlib\include\sys\libconfig-arm.h:241:5:__sys_readc	24	static

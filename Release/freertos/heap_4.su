@@ -1,0 +1,6 @@
+../freertos/heap_4.c:419:13:prvInsertBlockIntoFreeList	12	static
+../freertos/heap_4.c:155:7:pvPortMalloc	32	static
+../freertos/heap_4.c:305:6:vPortFree	8	static
+../freertos/heap_4.c:353:8:xPortGetFreeHeapSize	0	static
+../freertos/heap_4.c:359:8:xPortGetMinimumEverFreeHeapSize	0	static
+../freertos/heap_4.c:365:6:vPortInitialiseBlocks	0	static

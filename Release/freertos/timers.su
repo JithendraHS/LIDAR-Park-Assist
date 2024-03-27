@@ -1,0 +1,16 @@
+../freertos/timers.c:683:19:prvInsertTimerInActiveList	8	static
+../freertos/timers.c:930:13:prvCheckForValidListAndQueue	24	static
+../freertos/timers.c:259:12:xTimerCreateTimerTask	16	static
+../freertos/timers.c:314:16:xTimerCreate	32	static
+../freertos/timers.c:417:12:xTimerGenericCommand	40	static
+../freertos/timers.c:660:19:prvSampleTimeNow	48	static
+../freertos/timers.c:538:13:prvTimerTask	64	static
+../freertos/timers.c:460:14:xTimerGetTimerDaemonTaskHandle	0	static
+../freertos/timers.c:469:12:xTimerGetPeriod	0	static
+../freertos/timers.c:478:12:xTimerGetExpiryTime	0	static
+../freertos/timers.c:489:14:pcTimerGetName	0	static
+../freertos/timers.c:981:12:xTimerIsTimerActive	8	static
+../freertos/timers.c:1002:7:pvTimerGetTimerID	8	static
+../freertos/timers.c:1019:6:vTimerSetTimerID	16	static
+../freertos/timers.c:1035:13:xTimerPendFunctionCallFromISR	24	static
+../freertos/timers.c:1059:13:xTimerPendFunctionCall	32	static

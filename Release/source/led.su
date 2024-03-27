@@ -1,0 +1,3 @@
+../source/led.c:45:6:Init_RGB_LED_PWM	8	static
+../source/led.c:104:6:dim_led	32	static
+../source/led.c:173:6:lit_led	16	static

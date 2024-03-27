@@ -1,0 +1,5 @@
+../drivers/fsl_lpsci_freertos.c:52:13:LPSCI_RTOS_Callback	16	static
+../drivers/fsl_lpsci_freertos.c:91:5:LPSCI_RTOS_Init	24	static
+../drivers/fsl_lpsci_freertos.c:187:5:LPSCI_RTOS_Deinit	8	static
+../drivers/fsl_lpsci_freertos.c:214:5:LPSCI_RTOS_Send	24	static
+../drivers/fsl_lpsci_freertos.c:266:5:LPSCI_RTOS_Receive	48	static
